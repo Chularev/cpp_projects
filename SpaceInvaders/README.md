@@ -1,1 +1,1 @@
-# Game on gml "Space Invaders"
+# Game on qml "Space Invaders"
