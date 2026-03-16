@@ -1,0 +1,5 @@
+build/*
+.vscode/*
+CMakeLists.txt.user
+data/testfile.txt
+testTask.zip
